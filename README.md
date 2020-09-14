@@ -4,18 +4,26 @@
 
 #### Hi there 👋, I'm Santi :smile:
 
-Been working in plenty of different techologies over the past 15 years. 
+🇦🇷 Argentinian.
 
-Always busy learning something new.
+💻 Been working in plenty of different techologies over the past 15 years.
 
-Currently working on `Java` and `Javascript` stacks mainly.
+📖 Always busy learning something new.
+
+🌱 Up to develop new business ideas, ping me if you need a dev.
+
+🔨 Currently working on `Java` and `Javascript` stacks mainly.
+
+💼 Currently working at [Cognetivity Limited.](https://www.cognetivity.com/)
+
+📍 London, UK.
 
 Up to collaborate in interesting open source projects, follow mines:
 - [**Chatter for Laravel**](https://github.com/Chatter-Laravel/core): A Laravel forum package
 - [**Cloudshop**](https://github.com/Chatter-Laravel/core): A Spring Boot eCommerce hexagonal architecture microservices backend
 - [**Angular Universal Express Cache Engine**](https://github.com/FlavrHub/angular-universal-express-cache-engine): Express enging that catches the request by the url 
 
-Up to develop new business ideas, ping me if you need a dev.
+📫 [barbatsan@gmail.com](mailto:barbatsan@gmail.com)
 
 <!--
 **sbarbat/sbarbat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
