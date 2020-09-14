@@ -1,8 +1,8 @@
-# Santiago [Santi] Barbat
+## Santiago [Santi] Barbat
 
-## Full stack software engineer 
+### Full stack software engineer 
 
-### Hi there 👋, I'm Santi :smile:
+#### Hi there 👋, I'm Santi :smile:
 
 Been working in plenty of different techologies over the past 15 years. 
 
