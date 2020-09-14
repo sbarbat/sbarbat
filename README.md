@@ -18,12 +18,12 @@
 
 📍 London, UK.
 
-Up to collaborate in interesting open source projects, follow mines:
-- [**Chatter for Laravel**](https://github.com/Chatter-Laravel/core): A Laravel forum package
-- [**Cloudshop**](https://github.com/Chatter-Laravel/core): A Spring Boot eCommerce hexagonal architecture microservices backend
-- [**Angular Universal Express Cache Engine**](https://github.com/FlavrHub/angular-universal-express-cache-engine): Express enging that catches the request by the url 
-
 📫 [barbatsan@gmail.com](mailto:barbatsan@gmail.com)
+
+
+🚀 Up to collaborate in interesting open source projects, check out some of mines and give them a star 👇
+
+
 
 <!--
 **sbarbat/sbarbat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
