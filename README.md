@@ -10,11 +10,7 @@
 
 📖 Always busy learning something new.
 
-🌱 Up to develop new business ideas, ping me if you need a dev.
-
-🔨 Currently working on `Java` and `Javascript` stacks mainly.
-
-💼 Currently working at [Cognetivity Limited.](https://www.cognetivity.com/)
+💼 Currently CTO at [Comtura](https://comtura.ai)
 
 📍 London, UK.
 
