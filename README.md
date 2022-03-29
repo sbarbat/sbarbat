@@ -6,7 +6,7 @@
 
 🇦🇷 Argentinian.
 
-💻 Been working in plenty of different techologies over the past 15 years.
+💻 Been working in plenty of different techologies over the past 15 years including: PHP, JAVA, python, Javascript, React, Angular & more.
 
 📖 Always busy learning something new.
 
