@@ -1,6 +1,6 @@
 ## Santiago [Santi] Barbat
 
-### Full stack software engineer 
+### CTO @ [Comtura](https://comtura.ai)
 
 #### Hi there 👋, I'm Santi :smile:
 
