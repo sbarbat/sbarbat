@@ -10,7 +10,7 @@
 
 📖 Always busy learning something new
 
-💼 CTO at [Comtura](https://comtura.ai)
+💼 CTO @ [Comtura](https://comtura.ai)
 
 📍 London, UK
 
