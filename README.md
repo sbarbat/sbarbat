@@ -1,8 +1,8 @@
-## Santiago [Santi] Barbat
+# Santiago [Santi] Barbat
 
-### CTO @ [Comtura](https://comtura.ai)
+## CTO @ [Comtura](https://comtura.ai)
 
-#### Hi there 👋, I'm Santi :smile:
+## Hi there 👋, I'm Santi :smile:
 
 🇦🇷 Argentine
 
