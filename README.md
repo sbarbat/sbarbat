@@ -16,6 +16,8 @@
 
 📫 [barbatsan@gmail.com](mailto:barbatsan@gmail.com)
 
+🍖 TECH & BBQ lover
+
 
 🚀 Up to collaborate in interesting open source projects, check out some of mines and give them a star 👇
 
