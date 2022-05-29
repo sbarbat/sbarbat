@@ -8,7 +8,7 @@
 
 💻 Been working in plenty of different techologies over the past 15 years including: **JAVA, python, Javascript, React, Angular**, PHP & more
 
-📖 Always busy learning something new
+📖 Always learning something new
 
 💼 CTO @ [Comtura](https://comtura.ai)
 
