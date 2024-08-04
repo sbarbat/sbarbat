@@ -10,13 +10,17 @@
 
 📖 Always learning something new
 
-💼 CTO @ [Comtura](https://comtura.ai)
+💼 Lead Software Engineer @ [Connected Kerb](https://connectedkerb.com)
 
-📍 London, UK
+📍 Oxford, UK
 
 📫 [barbatsan@gmail.com](mailto:barbatsan@gmail.com)
 
 🍖 TECH & BBQ lover
+
+
+[Mortgage Mapper](https://mortgagemapper.com)
+[Mortgage Mapper For Brokers](https://broker.mortgagemapper.com)
 
 
 🚀 Up to collaborate in interesting open source projects, check out some of mines and give them a star 👇
